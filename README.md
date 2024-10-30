@@ -15,7 +15,6 @@
 * [cutt.ly](https://cutt.ly)
 * [Dub.co](https://dub.co)
 * [fox.ly](https://foxlyme.com/) - Optimize your URL
-* [gg.gg](https://gg.gg)
 * [han.gl](https://han.gl) - Korean URL Shortener Service
 * [is.gd](https://is.gd)
 * [KurzeLinks.de](https://kurzelinks.de) - Link shortener based in Germany.
@@ -72,6 +71,7 @@
 * [soo.gd](https://soo.gd/)
 * [hoy.kr](https://hoy.kr/)
 * [3.ly](https://3.ly)
+* [gg.gg](https://gg.gg)
 
 ## Contributing
 
